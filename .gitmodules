@@ -1,0 +1,3 @@
+[submodule "d7_sod"]
+	path = d7_sod
+	url = git@github.com:paolomainardi/d7_sod.git
